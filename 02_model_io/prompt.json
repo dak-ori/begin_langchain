@@ -1,0 +1,15 @@
+{
+    "name": null,
+    "input_variables": [
+        "product"
+    ],
+    "input_types": {},
+    "output_parser": null,
+    "partial_variables": {},
+    "metadata": null,
+    "tags": null,
+    "template": "{product}\ub294 \uc5b4\ub290 \ud68c\uc0ac\uc5d0\uc11c \uac1c\ubc1c\ud55c \uc81c\ud488\uc778\uac00\uc694?",
+    "template_format": "f-string",
+    "validate_template": false,
+    "_type": "prompt"
+}
