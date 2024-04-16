@@ -6,7 +6,7 @@ response = openai.ChatCompletion.create(  # api 호출
     messages = [
         {
             "role" : "user",
-            "content" : "콘소메가 뭔지 알려줘"  # 프롬포트
+            "content" : "iPhone8의 출시일 알려줘"  # 프롬포트
         },
     ],
     max_tokens=100,  # 생성할 문장의 최대 토큰 수
